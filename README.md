@@ -1,7 +1,15 @@
-# Full Stack Java Spring Boot - React - Leaflet Map App
+# Full Stack Java Spring Boot - React - Leaflet Map -Docker - PostgreSQL App
 
 ## A full stack Transport App. 
-
+*TailwindCSS
+*Spring Boot
+*Leaflet
+*Open Street Map
+*Java
+*Javascript
+*React
+*Docker-Compose
+*PostgreSQL
 <img src="./sshot.png">
 ## Available Scripts
 
